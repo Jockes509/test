@@ -1,0 +1,14 @@
+void main() {
+  
+  int chif = 80;
+
+  
+  if (chif > 70) {
+    print('$chif est plus grand que 70');
+  } else if (chif < 70) {
+    print('$chif est plus petit que 70');
+  } else {
+    print('$chif est égal à 70');
+  }
+}
+
